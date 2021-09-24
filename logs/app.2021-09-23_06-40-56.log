@@ -1,0 +1,6 @@
+2021-09-23 18:40:58.129 [main][3123] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-23 18:41:01.412 [main][6406] DEBUG page_object.Home - click on shop
+2021-09-23 18:41:01.556 [main][6550] DEBUG page_object.GamingLink - click on Apps
+2021-09-23 18:41:01.695 [main][6689] DEBUG page_object.GamingLink - click on safety button to select the items
+2021-09-23 18:41:01.823 [main][6817] DEBUG page_object.GamingLink -  user is navigate to a scroll page
+2021-09-23 18:41:03.618 [main][8612] INFO  step_definition.Hooks - Close Chrome Browser

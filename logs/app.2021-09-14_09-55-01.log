@@ -1,0 +1,70 @@
+2021-09-14 21:55:03.593 [main][4409] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:06.705 [main][7521] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:06.887 [main][7703] DEBUG page_object.Home - click on deals
+2021-09-14 21:55:06.989 [main][7805] DEBUG page_object.Home - click on FreePhones button to select the items
+2021-09-14 21:55:07.104 [main][7920] DEBUG page_object.Home - user is navigate to FreePhones page
+2021-09-14 21:55:09.352 [main][10168] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:55:11.080 [main][11896] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:13.988 [main][14804] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:14.164 [main][14980] DEBUG page_object.Home - click on deals
+2021-09-14 21:55:14.270 [main][15086] DEBUG page_object.Home - click on SmartPhones button to select the items
+2021-09-14 21:55:14.387 [main][15203] DEBUG page_object.Home - user is navigate to FreePhones page
+2021-09-14 21:55:16.090 [main][16906] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:55:17.897 [main][18713] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:20.729 [main][21545] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:20.915 [main][21731] DEBUG page_object.Home - click on devices
+2021-09-14 21:55:21.038 [main][21854] DEBUG page_object.Home - click on PrepaidPhones button to select the items
+2021-09-14 21:55:21.167 [main][21983] DEBUG page_object.Home - user is navigate to a PrepaidPhones page
+2021-09-14 21:55:23.773 [main][24589] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:55:25.543 [main][26359] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:28.580 [main][29396] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:28.754 [main][29570] DEBUG page_object.Home - click on devices
+2021-09-14 21:55:28.863 [main][29679] DEBUG page_object.Home - click on watches button to select the items
+2021-09-14 21:55:28.992 [main][29808] DEBUG page_object.Home -  user is navigate to a Watches page
+2021-09-14 21:55:30.813 [main][31629] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:55:32.626 [main][33442] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:35.638 [main][36454] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:35.814 [main][36630] DEBUG page_object.Home - click on accessories
+2021-09-14 21:55:35.928 [main][36744] DEBUG page_object.Home - click on charging button to select the items
+2021-09-14 21:55:36.056 [main][36872] DEBUG page_object.Home -  user is navigate to  charging page
+2021-09-14 21:55:37.974 [main][38790] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:55:39.681 [main][40497] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:42.631 [main][43447] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:42.798 [main][43614] DEBUG page_object.Home - click on accessories
+2021-09-14 21:55:42.907 [main][43723] DEBUG page_object.Home - click on audio button to select the items
+2021-09-14 21:55:43.034 [main][43850] DEBUG page_object.Home -  user is navigate to audio page
+2021-09-14 21:55:45.244 [main][46060] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:55:47.031 [main][47847] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:50.648 [main][51464] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:50.823 [main][51639] DEBUG page_object.Home - click on Plans
+2021-09-14 21:55:50.939 [main][51755] DEBUG page_object.Home - click on unlimited button to select the items
+2021-09-14 21:55:51.062 [main][51878] DEBUG page_object.Home -  user is navigate to  unlimited page
+2021-09-14 21:55:51.116 [main][51932] ERROR command_providers.ElementActions - Element Exception for the locator By.xpath: //h2[contains(.,'It’s Unlimited built right'.)] and exception is: org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //h2[contains(.,'It’s Unlimited built right'.)] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//h2[contains(.,'It’s Unlimited built right'.)]' is not a valid XPath expression.
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-T3GUSF2', ip: '192.168.1.34', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\tanzid\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54453}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 23ce140be779abff181d206657aeac2d
+*** Element info: {Using=xpath, value=//h2[contains(.,'It’s Unlimited built right'.)]}
+2021-09-14 21:55:51.117 [main][51933] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:55:52.861 [main][53677] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:55:55.699 [main][56515] DEBUG page_object.Home - click on shop
+2021-09-14 21:55:55.904 [main][56720] DEBUG page_object.Home - click on Home
+2021-09-14 21:55:56.012 [main][56828] DEBUG page_object.Home - click on fiosTv button to select the items
+2021-09-14 21:55:56.119 [main][56935] DEBUG page_object.Home -  user is navigate to  FiosTv page
+2021-09-14 21:55:58.610 [main][59426] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:56:00.389 [main][61205] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:56:03.357 [main][64173] DEBUG page_object.Home - click on shop
+2021-09-14 21:56:03.526 [main][64342] DEBUG page_object.Home - click on Entertainment
+2021-09-14 21:56:03.636 [main][64452] DEBUG page_object.Home - click on gaming button to select the items
+2021-09-14 21:56:03.758 [main][64574] DEBUG page_object.Home -  user is navigate to gaming page
+2021-09-14 21:56:05.498 [main][66314] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-14 21:56:07.297 [main][68113] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 21:56:10.235 [main][71051] DEBUG page_object.Home - click on shop
+2021-09-14 21:56:10.420 [main][71236] DEBUG page_object.Home - click on Apps
+2021-09-14 21:56:10.542 [main][71358] DEBUG page_object.Home - click on safety button to select the items
+2021-09-14 21:56:10.674 [main][71490] DEBUG page_object.Home -  user is navigate to a scroll page
+2021-09-14 21:56:12.220 [main][73036] INFO  step_definition.Hooks - Close Chrome Browser

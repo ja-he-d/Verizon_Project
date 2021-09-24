@@ -1,0 +1,6 @@
+2021-09-14 16:44:03.393 [main][3940] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 16:44:07.401 [main][7948] DEBUG page_object.Home - click on shop
+2021-09-14 16:44:07.679 [main][8226] DEBUG page_object.Home - click on devices
+2021-09-14 16:44:07.853 [main][8400] DEBUG page_object.Home - click on watches button to select the items
+2021-09-14 16:44:08.052 [main][8599] DEBUG page_object.Home -  user is navigate to a Watches page
+2021-09-14 16:44:10.952 [main][11499] INFO  step_definition.Hooks - Close Chrome Browser

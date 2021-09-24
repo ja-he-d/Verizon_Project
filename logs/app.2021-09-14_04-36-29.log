@@ -1,0 +1,6 @@
+2021-09-14 16:36:31.086 [main][3693] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 16:36:35.120 [main][7727] DEBUG page_object.Home - click on shop
+2021-09-14 16:36:35.438 [main][8045] DEBUG page_object.Home - click on devices
+2021-09-14 16:36:35.659 [main][8266] DEBUG page_object.Home - click on PrepaidPhones button to select the items
+2021-09-14 16:36:35.862 [main][8469] DEBUG page_object.Home - user is navigate to a PrepaidPhones page
+2021-09-14 16:36:40.062 [main][12669] INFO  step_definition.Hooks - Close Chrome Browser

@@ -1,0 +1,4 @@
+2021-09-23 22:25:43.715 [main][3039] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-23 22:25:47.027 [main][6351] DEBUG page_object.SearchOption - click on shop
+2021-09-23 22:25:48.896 [main][8220] DEBUG page_object.SearchOption - click on shop
+2021-09-23 22:25:51.686 [main][11010] INFO  step_definition.Hooks - Close Chrome Browser

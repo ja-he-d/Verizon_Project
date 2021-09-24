@@ -1,0 +1,6 @@
+2021-09-14 15:57:10.611 [main][6256] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 15:57:14.480 [main][10125] DEBUG page_object.Home - click on shop
+2021-09-14 15:57:14.734 [main][10379] DEBUG page_object.Home - click on deals
+2021-09-14 15:57:14.976 [main][10621] DEBUG page_object.Home - click on FreePhones button to select the items
+2021-09-14 15:57:15.202 [main][10847] DEBUG page_object.Home - user is navigate to FreePhones page
+2021-09-14 15:57:18.795 [main][14440] INFO  step_definition.Hooks - Close Chrome Browser

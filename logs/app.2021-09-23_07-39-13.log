@@ -1,0 +1,5 @@
+2021-09-23 19:39:15.920 [main][4173] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-23 19:39:18.736 [main][6989] DEBUG page_object.Home - click on shop
+2021-09-23 19:39:18.913 [main][7166] DEBUG page_object.Home - click on shop
+2021-09-23 19:39:19.006 [main][7259] DEBUG page_object.HealthLink - click on accessories
+2021-09-23 19:39:34.137 [main][22390] INFO  step_definition.Hooks - Close Chrome Browser

@@ -1,0 +1,50 @@
+2021-09-12 21:20:22.101 [main][3979] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:20:26.246 [main][8124] DEBUG page_object.Home - click on shop
+2021-09-12 21:20:26.499 [main][8377] DEBUG page_object.Home - click on deals
+2021-09-12 21:20:26.716 [main][8594] DEBUG page_object.Home - click on FreePhones button to select the items
+2021-09-12 21:20:26.935 [main][8813] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:20:29.039 [main][10917] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:20:32.929 [main][14807] DEBUG page_object.Home - click on shop
+2021-09-12 21:20:33.215 [main][15093] DEBUG page_object.Home - click on deals
+2021-09-12 21:20:33.586 [main][15464] DEBUG page_object.Home - click on SmartPhones button to select the items
+2021-09-12 21:20:33.814 [main][15692] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:20:35.905 [main][17783] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:20:40.093 [main][21971] DEBUG page_object.Home - click on shop
+2021-09-12 21:20:40.455 [main][22333] DEBUG page_object.Home - click on devices
+2021-09-12 21:20:40.663 [main][22541] DEBUG page_object.Home - click on PrepaidPhones button to select the items
+2021-09-12 21:20:40.949 [main][22827] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:20:43.043 [main][24921] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:20:47.262 [main][29140] DEBUG page_object.Home - click on shop
+2021-09-12 21:20:47.584 [main][29462] DEBUG page_object.Home - click on devices
+2021-09-12 21:20:47.866 [main][29744] DEBUG page_object.Home - click on watches button to select the items
+2021-09-12 21:20:48.114 [main][29992] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:20:50.361 [main][32239] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:20:54.631 [main][36509] DEBUG page_object.Home - click on shop
+2021-09-12 21:20:54.984 [main][36862] DEBUG page_object.Home - click on accessories
+2021-09-12 21:20:55.274 [main][37152] DEBUG page_object.Home - click on charging button to select the items
+2021-09-12 21:20:55.566 [main][37444] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:20:57.709 [main][39587] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:21:02.233 [main][44111] DEBUG page_object.Home - click on shop
+2021-09-12 21:21:02.609 [main][44487] DEBUG page_object.Home - click on accessories
+2021-09-12 21:21:02.851 [main][44729] DEBUG page_object.Home - click on audio button to select the items
+2021-09-12 21:21:03.138 [main][45016] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:21:05.209 [main][47087] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:21:09.346 [main][51224] DEBUG page_object.Home - click on shop
+2021-09-12 21:21:09.685 [main][51563] DEBUG page_object.Home - click on Plans
+2021-09-12 21:21:10.000 [main][51878] DEBUG page_object.Home - click on unlimited button to select the items
+2021-09-12 21:21:10.350 [main][52228] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:21:12.533 [main][54411] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:21:17.063 [main][58941] DEBUG page_object.Home - click on shop
+2021-09-12 21:21:17.360 [main][59238] DEBUG page_object.Home - click on Home
+2021-09-12 21:21:17.694 [main][59572] DEBUG page_object.Home - click on fiosTv button to select the items
+2021-09-12 21:21:18.000 [main][59878] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:21:20.024 [main][61902] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:21:24.213 [main][66091] DEBUG page_object.Home - click on shop
+2021-09-12 21:21:24.570 [main][66448] DEBUG page_object.Home - click on Entertainment
+2021-09-12 21:21:24.796 [main][66674] DEBUG page_object.Home - click on gaming button to select the items
+2021-09-12 21:21:25.100 [main][66978] INFO  step_definition.Hooks - Close Chrome Browser
+2021-09-12 21:21:27.216 [main][69094] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-12 21:21:31.710 [main][73588] DEBUG page_object.Home - click on shop
+2021-09-12 21:21:32.058 [main][73936] DEBUG page_object.Home - click on Apps
+2021-09-12 21:21:32.364 [main][74242] DEBUG page_object.Home - click on safety button to select the items
+2021-09-12 21:21:32.700 [main][74578] INFO  step_definition.Hooks - Close Chrome Browser

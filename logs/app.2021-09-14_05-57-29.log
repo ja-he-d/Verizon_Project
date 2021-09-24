@@ -1,0 +1,16 @@
+2021-09-14 17:57:30.852 [main][3329] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 17:57:34.316 [main][6793] DEBUG page_object.Home - click on shop
+2021-09-14 17:57:34.513 [main][6990] DEBUG page_object.Home - click on Plans
+2021-09-14 17:57:34.648 [main][7125] DEBUG page_object.Home - click on unlimited button to select the items
+2021-09-14 17:57:34.799 [main][7276] DEBUG page_object.Home -  user is navigate to  unlimited page
+2021-09-14 17:57:34.857 [main][7334] ERROR command_providers.ElementActions - Element Exception for the locator By.xpath: //h2[contains(.,'It’s Unlimited built right'.)] and exception is: org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //h2[contains(.,'It’s Unlimited built right'.)] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//h2[contains(.,'It’s Unlimited built right'.)]' is not a valid XPath expression.
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-T3GUSF2', ip: '192.168.1.34', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\tanzid\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 473b51b012af277a38eac8266c54e0e1
+*** Element info: {Using=xpath, value=//h2[contains(.,'It’s Unlimited built right'.)]}
+2021-09-14 17:57:34.859 [main][7336] INFO  step_definition.Hooks - Close Chrome Browser

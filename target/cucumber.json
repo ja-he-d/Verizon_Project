@@ -1,0 +1,1052 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3506993600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:13:53.309Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3219149800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Check shop to browse FreePhones with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-freephones-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 708621700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 155706800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on deals for free phones",
+            "match": {
+              "location": "step_definition.FreePhonesSteps.userClickOnDealsForFReePhones()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 132979200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on FreePhones button to select the items",
+            "match": {
+              "location": "step_definition.FreePhonesSteps.userClickOnFreePhones()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2820573700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user is navigate to FreePhones page",
+            "match": {
+              "location": "step_definition.FreePhonesSteps.navigateToFreePhonesPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3443869400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:03.950Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1139716200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Check shop to browse SmartPhones with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-smartphones-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 704801600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 108994500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User click on deals for SmartPhones",
+            "match": {
+              "location": "step_definition.SmartPhonesSteps.userClickOnDealsForSmartPhones()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 144719500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click on SmartPhones button to select the items",
+            "match": {
+              "location": "step_definition.SmartPhonesSteps.userClickOnSmartPhones()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2166120200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user is navigate to a SmartPhones page",
+            "match": {
+              "location": "step_definition.SmartPhonesSteps.navigateToSmartPhonesPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3579879700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:11.668Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1067743800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Check shop to browse PrepaidPhones with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-prepaidphones-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 707359200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 142867200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User click on devices for PrepaidPhones",
+            "match": {
+              "location": "step_definition.PrepaidPhonesSteps.userClickOnDevicesForPrepaidPhones()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 183034900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User click on PrepaidPhones button to select the items",
+            "match": {
+              "location": "step_definition.PrepaidPhonesSteps.userClickOnPrepaidPhones()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3758718100,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user is navigate to a PrepaidPhones page",
+            "match": {
+              "location": "step_definition.PrepaidPhonesSteps.navigateToPrepaidPhonesPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3231462100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:21.112Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1105289100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "Check shop to browse watches with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-watches-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 691089500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 142165700,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User click on devices for Watches",
+            "match": {
+              "location": "step_definition.WatchesSteps.userClickOnDevicesForWatches()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 135796100,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "User click on watches button to select the items",
+            "match": {
+              "location": "step_definition.WatchesSteps.userClickOnWatches()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2122370100,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user is navigate to a Watches page",
+            "match": {
+              "location": "step_definition.WatchesSteps.navigateToWatchesPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3574793700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:28.540Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1150145600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "Check shop to browse charging with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-charging-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 652766800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 158459600,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User click on accessories for charging items",
+            "match": {
+              "location": "step_definition.ChargingSteps.userClickOnAccessoriesForCharger()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 174838200,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User click on charging button to select the items",
+            "match": {
+              "location": "step_definition.ChargingSteps.userClickOnCharging()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2056084600,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user is navigate to  charging page",
+            "match": {
+              "location": "step_definition.ChargingSteps.navigateToChargingPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3564424200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:36.308Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1118728200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "Check plans to browse studentPlans with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-plans-to-browse-studentplans-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 703028900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 141909100,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "User click on plans for health studentPlans",
+            "match": {
+              "location": "step_definition.StudentPlansSteps.userClickOnPlans()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 163218100,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User click on studentPlans button to select the items",
+            "match": {
+              "location": "step_definition.StudentPlansSteps.userClickOnUnlimited()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2062158200,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "user is navigate to studentPlans page",
+            "match": {
+              "location": "step_definition.StudentPlansSteps.navigateToUnlimitedPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3623329500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:44.074Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1160556200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 43,
+        "name": "Check shop to browse unlimited with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-unlimited-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 698194400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 131954200,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "User click on plans",
+            "match": {
+              "location": "step_definition.UnlimitedSteps.userClickOnPlans()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 193297400,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "User click on unlimited button to select the items",
+            "match": {
+              "location": "step_definition.UnlimitedSteps.userClickOnUnlimited()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50564600,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "user is navigate to  unlimited page",
+            "match": {
+              "location": "step_definition.UnlimitedSteps.navigateToUnlimitedPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3291447100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:49.931Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1166475100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 49,
+        "name": "Check shop to browse fiosTv with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-fiostv-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 691439700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 150297100,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "User click on home",
+            "match": {
+              "location": "step_definition.FiosTvSteps.userClickOnHome()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 150609400,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "User click on fiosTv button to select the items",
+            "match": {
+              "location": "step_definition.FiosTvSteps.userClickOnFiosTv()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2991573600,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "user is navigate to  FiosTv page",
+            "match": {
+              "location": "step_definition.FiosTvSteps.navigateToFiosTvPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3408206200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:14:58.374Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1106982300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 55,
+        "name": "Check shop to browse gaming with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-gaming-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 675673100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 125027700,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "User click on entertainment",
+            "match": {
+              "location": "step_definition.GamingSteps.userClickOnEntertainment()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2059438800,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "User click on gaming button to select the items",
+            "match": {
+              "location": "step_definition.GamingSteps.userClickOnGaming()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 39985200,
+              "status": "passed"
+            },
+            "line": 58,
+            "name": "user is navigate to gaming page",
+            "match": {
+              "location": "step_definition.GamingSteps.navigateToGamingPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3475085500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page and click on shop",
+            "match": {
+              "location": "step_definition.VerizonSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-24T19:15:05.793Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1137184000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 61,
+        "name": "Check shop to browse safety with valid  credentials",
+        "description": "",
+        "id": "test-verizon-functionalities;check-shop-to-browse-safety-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 657289900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 148494500,
+              "status": "passed"
+            },
+            "line": 62,
+            "name": "User click on apps",
+            "match": {
+              "location": "step_definition.SafetySteps.userClickOnApps()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 162141200,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "User click on safety button to select the items",
+            "match": {
+              "location": "step_definition.SafetySteps.userClickOnSafety()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1830359700,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "user is navigate to a scroll page",
+            "match": {
+              "location": "step_definition.SafetySteps.navigateToSafetyPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@VerizonProjectWithValidCredentials"
+          }
+        ]
+      }
+    ],
+    "name": "Test Verizon functionalities",
+    "description": "",
+    "id": "test-verizon-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Verizon.feature",
+    "tags": [
+      {
+        "name": "@VerizonProjectWithValidCredentials",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-24T19:15:13.206Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1128038100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check search option for iphone 12",
+        "description": "",
+        "id": "verizon-search-functionalities;check-search-option-for-iphone-12",
+        "after": [
+          {
+            "result": {
+              "duration": 681413800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3255109900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is in verizon home page and click on search button",
+            "match": {
+              "location": "step_definition.SearchSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1821372800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on search button and type iPhone 12",
+            "match": {
+              "location": "step_definition.SearchSteps.userClickOnSearchButtonAndTypeIPhone12()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2996611400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user press enter to get search results",
+            "match": {
+              "location": "step_definition.SearchSteps.pressEnterToGetSearchResult()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verizon search functionalities",
+    "description": "",
+    "id": "verizon-search-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/search.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3210539700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is in verizon home page",
+            "match": {
+              "location": "step_definition.ShopsSteps.userIsInVerizonHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 174228300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on shop",
+            "match": {
+              "location": "step_definition.ShopsSteps.userClickOnShop()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-09-13T22:49:52.600Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2072268500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Check shop to browse SmartPhones with valid  credentials",
+        "description": "",
+        "id": "test-verizon-shop-functionalities;check-shop-to-browse-smartphones-with-valid--credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 731545400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definition.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 191990200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click on deals",
+            "match": {
+              "location": "step_definition.ShopsSteps.userClickOnDeals()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 162036300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User click on SmartPhones button to select the items",
+            "match": {
+              "location": "step_definition.ShopsSteps.userClickOnSmartPhones()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user is navigate to a scroll page",
+            "match": {
+              "location": "step_definition.ShopsSteps.openScrollPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Verizon"
+          },
+          {
+            "name": "@SmartPhones"
+          },
+          {
+            "name": "@WithValidCredentials"
+          }
+        ]
+      }
+    ],
+    "name": "Test Verizon shop functionalities",
+    "description": "",
+    "id": "test-verizon-shop-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Tanzid.feature",
+    "tags": [
+      {
+        "name": "@Verizon",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

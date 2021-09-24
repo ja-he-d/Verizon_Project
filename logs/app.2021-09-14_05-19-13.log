@@ -1,0 +1,6 @@
+2021-09-14 17:19:16.243 [main][4725] INFO  step_definition.Hooks - Launch Chrome Browser
+2021-09-14 17:19:19.893 [main][8375] DEBUG page_object.Home - click on shop
+2021-09-14 17:19:20.220 [main][8702] DEBUG page_object.Home - click on accessories
+2021-09-14 17:19:20.407 [main][8889] DEBUG page_object.Home - click on charging button to select the items
+2021-09-14 17:19:20.579 [main][9061] DEBUG page_object.Home -  user is navigate to  charging page
+2021-09-14 17:19:22.813 [main][11295] INFO  step_definition.Hooks - Close Chrome Browser

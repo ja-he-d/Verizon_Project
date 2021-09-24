@@ -1,0 +1,50 @@
+2021-09-11 19:27:36.787 [main][7546] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:27:36.824 [main][7583] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:27:36.825 [main][7584] INFO  step_definition.ShopsSteps - User click on deals
+2021-09-11 19:27:36.825 [main][7584] INFO  step_definition.ShopsSteps - User click on FreePhones button to select the items
+2021-09-11 19:27:36.826 [main][7585] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:27:41.414 [main][12173] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:27:41.415 [main][12174] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:27:41.416 [main][12175] INFO  step_definition.ShopsSteps - User click on deals
+2021-09-11 19:27:41.417 [main][12176] INFO  step_definition.ShopsSteps - User click on SmartPhones button to select the items
+2021-09-11 19:27:41.417 [main][12176] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:27:46.034 [main][16793] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:27:46.038 [main][16797] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:27:46.039 [main][16798] INFO  step_definition.ShopsSteps - User click on devices
+2021-09-11 19:27:46.040 [main][16799] INFO  step_definition.ShopsSteps - User click on PrepaidPhones button to select the items
+2021-09-11 19:27:46.040 [main][16799] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:27:50.684 [main][21443] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:27:50.688 [main][21447] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:27:50.689 [main][21448] INFO  step_definition.ShopsSteps - User click on devices
+2021-09-11 19:27:50.689 [main][21448] INFO  step_definition.ShopsSteps - User click on watches button to select the items
+2021-09-11 19:27:50.690 [main][21449] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:27:55.250 [main][26009] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:27:55.251 [main][26010] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:27:55.253 [main][26012] INFO  step_definition.ShopsSteps - User click on accessories
+2021-09-11 19:27:55.254 [main][26013] INFO  step_definition.ShopsSteps - User click on charging button to select the items
+2021-09-11 19:27:55.254 [main][26013] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:28:00.791 [main][31550] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:28:00.791 [main][31550] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:28:00.793 [main][31552] INFO  step_definition.ShopsSteps - User click on accessories
+2021-09-11 19:28:00.793 [main][31552] INFO  step_definition.ShopsSteps - User click on audio button to select the items
+2021-09-11 19:28:00.794 [main][31553] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:28:05.340 [main][36099] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:28:05.342 [main][36101] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:28:05.343 [main][36102] INFO  step_definition.ShopsSteps - User click on plans
+2021-09-11 19:28:05.343 [main][36102] INFO  step_definition.ShopsSteps - User click on unlimited button to select the items
+2021-09-11 19:28:05.344 [main][36103] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:28:10.706 [main][41465] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:28:10.707 [main][41466] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:28:10.707 [main][41466] INFO  step_definition.ShopsSteps - User click on home
+2021-09-11 19:28:10.708 [main][41467] INFO  step_definition.ShopsSteps - User click on fiosTv button to select the items
+2021-09-11 19:28:10.710 [main][41469] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:28:16.013 [main][46772] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:28:16.014 [main][46773] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:28:16.014 [main][46773] INFO  step_definition.ShopsSteps - User click on entertainment
+2021-09-11 19:28:16.017 [main][46776] INFO  step_definition.ShopsSteps - User click on gaming button to select the items
+2021-09-11 19:28:16.021 [main][46780] INFO  step_definition.ShopsSteps - User is in the produce list
+2021-09-11 19:28:21.007 [main][51766] INFO  step_definition.ShopsSteps - User is in verizon home page
+2021-09-11 19:28:21.007 [main][51766] INFO  step_definition.ShopsSteps - User click on shop
+2021-09-11 19:28:21.007 [main][51766] INFO  step_definition.ShopsSteps - User click on apps
+2021-09-11 19:28:21.007 [main][51766] INFO  step_definition.ShopsSteps - User click on safety button to select the items
+2021-09-11 19:28:21.011 [main][51770] INFO  step_definition.ShopsSteps - User is in the produce list
